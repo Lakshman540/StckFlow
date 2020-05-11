@@ -1,0 +1,12 @@
+C:\Users\sriteja\source\repos\StackOverflowProject\StackOverflowProject.ViewModels\bin\Debug\StackOverflowProject.ViewModels.dll
+C:\Users\sriteja\source\repos\StackOverflowProject\StackOverflowProject.ViewModels\bin\Debug\StackOverflowProject.ViewModels.pdb
+C:\Users\sriteja\source\repos\StackOverflowProject\StackOverflowProject.ViewModels\obj\Debug\StackOverflowProject.ViewModels.csprojAssemblyReference.cache
+C:\Users\sriteja\source\repos\StackOverflowProject\StackOverflowProject.ViewModels\obj\Debug\StackOverflowProject.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\sriteja\source\repos\StackOverflowProject\StackOverflowProject.ViewModels\obj\Debug\StackOverflowProject.ViewModels.dll
+C:\Users\sriteja\source\repos\StackOverflowProject\StackOverflowProject.ViewModels\obj\Debug\StackOverflowProject.ViewModels.pdb
+C:\Users\sriteja\source\repos\StackOverflowProject\StackOverflowProject.ViewModels\bin\Debug\StackOverflowProject.ViewModels.dll.config
+C:\Users\sriteja\source\repos\StackOverflowProject\StackOverflowProject.ViewModels\bin\Debug\EntityFramework.dll
+C:\Users\sriteja\source\repos\StackOverflowProject\StackOverflowProject.ViewModels\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sriteja\source\repos\StackOverflowProject\StackOverflowProject.ViewModels\bin\Debug\EntityFramework.xml
+C:\Users\sriteja\source\repos\StackOverflowProject\StackOverflowProject.ViewModels\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sriteja\source\repos\StackOverflowProject\StackOverflowProject.ViewModels\obj\Debug\StackOverflowProject.ViewModels.csproj.CopyComplete

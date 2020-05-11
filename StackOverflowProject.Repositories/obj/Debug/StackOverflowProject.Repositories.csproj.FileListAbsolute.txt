@@ -1,0 +1,15 @@
+C:\Users\sriteja\source\repos\StackOverflowProject\StackOverflowProject.Repositories\bin\Debug\StackOverflowProject.Repositories.dll.config
+C:\Users\sriteja\source\repos\StackOverflowProject\StackOverflowProject.Repositories\bin\Debug\StackOverflowProject.Repositories.dll
+C:\Users\sriteja\source\repos\StackOverflowProject\StackOverflowProject.Repositories\bin\Debug\StackOverflowProject.Repositories.pdb
+C:\Users\sriteja\source\repos\StackOverflowProject\StackOverflowProject.Repositories\bin\Debug\EntityFramework.dll
+C:\Users\sriteja\source\repos\StackOverflowProject\StackOverflowProject.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sriteja\source\repos\StackOverflowProject\StackOverflowProject.Repositories\bin\Debug\StackOverflowProject.DomainModels.dll
+C:\Users\sriteja\source\repos\StackOverflowProject\StackOverflowProject.Repositories\bin\Debug\StackOverflowProject.DomainModels.pdb
+C:\Users\sriteja\source\repos\StackOverflowProject\StackOverflowProject.Repositories\bin\Debug\StackOverflowProject.DomainModels.dll.config
+C:\Users\sriteja\source\repos\StackOverflowProject\StackOverflowProject.Repositories\bin\Debug\EntityFramework.xml
+C:\Users\sriteja\source\repos\StackOverflowProject\StackOverflowProject.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sriteja\source\repos\StackOverflowProject\StackOverflowProject.Repositories\obj\Debug\StackOverflowProject.Repositories.csprojAssemblyReference.cache
+C:\Users\sriteja\source\repos\StackOverflowProject\StackOverflowProject.Repositories\obj\Debug\StackOverflowProject.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\sriteja\source\repos\StackOverflowProject\StackOverflowProject.Repositories\obj\Debug\StackOverflowProject.Repositories.csproj.CopyComplete
+C:\Users\sriteja\source\repos\StackOverflowProject\StackOverflowProject.Repositories\obj\Debug\StackOverflowProject.Repositories.dll
+C:\Users\sriteja\source\repos\StackOverflowProject\StackOverflowProject.Repositories\obj\Debug\StackOverflowProject.Repositories.pdb

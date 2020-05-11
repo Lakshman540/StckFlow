@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="StackOverFlowDatabaseDbContext-Web.config Connection String" description="StackOverFlowDatabaseDbContext Connection String used in web.config by the application to access the database." defaultValue="data source=LAPTOP-KMFS75DM\SQLEXPRESS;user id=laxman;password=1234;initial catalog=StackOverflow" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\sriteja\\source\\repos\\StackOverflowProject\\StackOverflowProject\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='StackOverFlowDatabaseDbContext']/@connectionString" />
+  </parameter>
+</parameters>
